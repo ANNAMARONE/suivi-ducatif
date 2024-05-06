@@ -1,0 +1,111 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+nav a{
+    font-family: Montserrat;
+   font-weight: normal;
+    margin: 10px;
+}
+nav ul{
+    margin-left: 5%;
+}
+nav img{
+    margin-left: 5%;
+}
+nav{
+    background-color: white;
+ scroll-behavior: fixed;
+}
+.bg-image{
+
+   background-repeat: no-repeat;
+   background-size: cover;
+ height: 60vh;
+
+
+}
+ .bg-image h1{
+    text-align: center;
+    padding-top: 5%;
+    color: white;
+}
+.bg-image p{
+    text-align: center;
+    padding-top: 2%;
+    color: white;
+}
+body{
+  background-color: #F2F2F2;
+}
+#btn{
+    border: 2px solid white;
+    color: white;
+    margin-left: 20%;
+    margin-top: 5%;
+   
+}
+.tr1{
+   width: 128px; 
+   height: 5px;
+   background-color: #28C2A0;
+   margin-top: 5%;
+}
+
+#container h1{
+    font-family: Montserrat;
+    font-weight: bold;
+    margin-top: 7%;
+    font-size: 18px;
+}
+#container p{
+    font-family: Ubuntu;
+    margin-top: 7%;
+    margin-left: 2%;
+
+}
+#btn1{
+    border: 2px solid black;
+    color: black;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+#container{
+    margin-top: 5%;
+    background-color: white;
+}
+.card{
+    margin: 3%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border: none;
+    
+}
+.card img{
+    margin-top:5% ;
+
+}
+.card h1{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: bold;
+}
+.card p{
+    font-family: Ubuntu;
+    font-size: 14px;
+}
+.container1{
+    margin-top: 5%;
+    margin-left: 5%;
+   
+}
+.parg2{
+    text-align: center;
+    font-family:Montserrat;
+    font-size: 28px;
+    font-weight: bolder;
+}
+.container1 p{
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 16px;
+    text-align: center;
+}
